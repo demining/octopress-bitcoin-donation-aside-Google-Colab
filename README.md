@@ -1,5 +1,9 @@
-Octopress Bitcoin Donation Aside
-================================
+-------------------------
+### Run octopress-bitcoin-donation-aside-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 This is a new custom aside for [Octopress](https://github.com/imathis/octopress?ref=commandbarr) that shows a QR Code and an address to send [Bitcoin](http://bitcoin.org) donations to.
 
